@@ -11,14 +11,14 @@ body {
     position: absolute;
     text-align: center;
     color: #333;
-    top: 30%;
+    top: 26%;
     left: 50%;
     transform: translateX(-50%);
 }
 .container {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 44%;
     transform: translate(-50%, -50%);
     height: 160px;
     width: 200px;
@@ -29,7 +29,7 @@ body {
     background-color: #999;
     position: absolute;
     left: 50%;
-    top: 38%;
+    top: 36%;
     transform: translate(-50%, -50%);
     width: 140px;
     height: 75px;
@@ -45,7 +45,7 @@ body {
 .container-2 {
     position: absolute;
     left: 50%;
-    top: 67%;
+    top: 65%;
     transform: translate(-50%, -50%);
     height: 155px;
     width: 200px;
@@ -96,7 +96,7 @@ h2 {
     left: 50%;
     transform: translateX(-50%);
     text-align: right;
-    margin-top: 20px;
+    margin-top: 25px;
     min-width: 310px;
     bottom: 10px;
 }
