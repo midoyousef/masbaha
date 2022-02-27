@@ -11,7 +11,7 @@ body {
     position: absolute;
     text-align: center;
     color: #333;
-    top: 26%;
+    top: 24%;
     left: 50%;
     transform: translateX(-50%);
 }
